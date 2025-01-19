@@ -20,6 +20,7 @@ npm install @apollo/client graphql
 
 ```bash
 npm install @mui/material
+npm install @mui/icons-material
 ```
 
 4. Product details should be a modal that animates in using **Framer motion**
